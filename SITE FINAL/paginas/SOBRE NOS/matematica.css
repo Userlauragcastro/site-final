@@ -1,0 +1,33 @@
+body{
+    background-color:grey;
+}
+
+
+
+img{
+
+ 
+    margin: 15px;
+    float: right;
+    height: 30%;
+    width: 30%;
+}
+
+.conatiner{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+
+
+
+.TEXTO{
+
+    color: white;
+   font-size: 35px;
+   text-align:center;
+   margin-left: 80px;
+   margin-right: 80px ;
+
+}

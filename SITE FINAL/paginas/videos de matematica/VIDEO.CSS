@@ -1,0 +1,72 @@
+
+h1{
+ text-align: center;
+font-size: xx-large;
+color: white;
+
+}
+h2{
+
+    color: white;
+    font: 5;
+    text-align: center;
+    
+}
+.video{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 1%;
+    margin-left: 5%;
+    margin-right: 7%;
+    
+}
+
+.container{
+
+    color: white;
+   text-align: center;
+  position: relative;
+   bottom:0;
+   background-color:grey;
+  
+}
+
+#containerfo-rmulario{
+
+color: white;
+
+
+}
+
+
+ .formularios{
+
+    color: white;
+    text-align: center;
+    max-width: 60%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  footer{
+
+    background-color: gray;
+  }
+.class{
+
+
+    color: white;
+    margin-left: 50%;
+    size: 50%;
+    text-rendering: geometricPrecision;
+    row-gap: 5%;
+    box-sizing: inherit;
+    border: 5px solid #f00;
+    transform: translateX(-50%);
+    text-align: center;
+
+}
